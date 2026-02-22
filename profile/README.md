@@ -1,16 +1,27 @@
-# Repositorio Grupo Ingeneria Aeroespacial
+# Grupo de Ingeniería Aeroespacial — UCR 🚀
 
+Somos un grupo estudiantil de la Universidad de Costa Rica dedicado al diseño, construcción y lanzamiento de cohetes y satélites experimentales (CanSats). Participamos en competencias internacionales como **ARLISS** y desarrollamos proyectos propios como **CRATER**.
 
-#### Wiki: ![Link](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/Wiki-GIA/wiki)
+---
 
+## 🛰️ Proyectos principales
 
-<!--
+### CRATER
+Proyecto de CanSat del grupo. Incluye diseño de hardware, firmware embebido y misión científica.
 
-**Here are some ideas to get you started:**
+- 📂 [CRATER-TALLER-PROGRA](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/CRATER-TALLER-PROGRA) — Taller de programación del proyecto CRATER (C++)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### ARLISS
+Competencia internacional de CanSats celebrada en Nevada. Nuestro equipo ha participado con diseños propios.
+
+- 📄 [ARLISS-Competition-Docs](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/ARLISS-Competition-Docs) — Biblioteca de documentos de la competencia: informes de equipos anteriores, diseños y recursos generales
+
+---
+
+## 📚 Otros recursos
+
+| Recurso | Descripción |
+|---|---|
+| [Wiki-GIA](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/Wiki-GIA/wiki) | Wiki interna del grupo con guías y documentación técnica |
+| [Sitio web](https://grupo-ingenieria-aeroespacial-ucr.github.io) | Página oficial del Grupo de Ingeniería Aeroespacial UCR |
+| [arrancon](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/arrancon) | Sistema embebido para medición de aceleración en tiempo real |
