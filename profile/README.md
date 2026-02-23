@@ -24,4 +24,3 @@ Competencia internacional de CanSats celebrada en Nevada. Nuestro equipo ha part
 |---|---|
 | [Wiki-GIA](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/Wiki-GIA/wiki) | Wiki interna del grupo con guías y documentación técnica |
 | [Sitio web](https://grupo-ingenieria-aeroespacial-ucr.github.io) | Página oficial del Grupo de Ingeniería Aeroespacial UCR |
-| [arrancon](https://github.com/Grupo-Ingenieria-Aeroespacial-UCR/arrancon) | Sistema embebido para medición de aceleración en tiempo real |
